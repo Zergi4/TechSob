@@ -16,6 +16,7 @@ public class Main {
             ...
         } catch (ExceptionType1 | ExceptionType2) {
             handleException(e);
+
         }
     }
 }
